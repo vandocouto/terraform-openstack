@@ -23,7 +23,7 @@ Important: Verify variables file - variables.tf
     ./terraform/build.sh terraform/keys/ apply
 
 
-### Step 3 - Create MySQL Security Group
+### Step 3 - Create Security Group
 Important: Verify variables file - variables.tf
 
     ./terraform/build.sh terraform/docker/securityGroup/ init
