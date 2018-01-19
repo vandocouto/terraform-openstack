@@ -1,13 +1,11 @@
+# Building infrastructure at Openstack with terraform
 
-# Credential
+## Credential
 
-export OS_USERNAME=
-
-export OS_PASSWORD=
-
-export OS_AUTH_URL=
-
-export OS_TENANT_NAME=
+    export OS_USERNAME=
+    export OS_PASSWORD=
+    export OS_AUTH_URL=
+    export OS_TENANT_NAME=
 
 ### Step 1 - Create a network
 Important: Verify variables file - variables.tf
