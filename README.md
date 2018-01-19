@@ -1,4 +1,9 @@
+# Cloud OpenStack UOL.
 
+export OS_USERNAME=
+export OS_PASSWORD=
+export OS_AUTH_URL=https://keystone.br-sp1.openstack.uolcloud.com.br:5000/v2.0
+export OS_TENANT_NAME=UOLHOST_Parcerias_Terceiro_Tempo
 
 Step 1 - Create a network
 Important: Verify variables file - variables.tf
