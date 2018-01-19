@@ -1,4 +1,4 @@
-# Building infrastructure at Openstack with terraform
+# Building infrastructure at Openstack with Terraform
 
 ## Credential
 
