@@ -1,5 +1,9 @@
 # Building infrastructure at Openstack with Terraform
 
+## Clone project
+    git clone https://github.com/vandocouto/terraform-openstack.git
+    cd terraform-openstack
+
 ## Credential
 
     export OS_USERNAME=
